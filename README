@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1841
+
+This is in fact a slightly customed version of lingodirector colorscheme
+(vimscript #1012) by Thomas Schmall.
+
+This is a GUI version just for now.
+
+Thanks:
+Thomas Schmall for a great color scheme (lingodirector.vim) and
+Bram Moolenaar et al. for the gem that is Vim.
